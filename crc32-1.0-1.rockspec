@@ -1,19 +1,11 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "crc32"
 
 version = "1.0-1"
 
--- LuaDist source
 source = {
-  tag = "1.0-1",
-  url = "git://github.com/LuaDist-testing/crc32.git"
+	url = "git://github.com/hjelmeland/luacrc32",
+	tag = "1.0",
 }
--- Original source
--- source = {
--- 	url = "git://github.com/hjelmeland/luacrc32",
--- 	tag = "1.0",
--- }
 
 description = {
 	summary = "CRC-32 module implemented in C",
